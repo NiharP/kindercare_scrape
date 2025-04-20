@@ -43,11 +43,15 @@ This script downloads all images and videos from the KinderCare parental portal 
    - In the popup window, click on "Export" to download the cookies.txt file
    - Save the cookies.txt file in the same directory as the script
 
+4. **Get childid**
+   - You can get the childid from https://classroom.kindercare.com/accounts/<childid>
+
+
 ## Usage
 
 1. **Place your cookies.txt file in the project directory**
-
-2. **Run the script using the Makefile:**
+2. **Update childid in makefile
+3. **Run the script using the Makefile:**
 
    With default settings:
    ```bash

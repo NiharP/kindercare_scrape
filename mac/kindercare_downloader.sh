@@ -3,7 +3,7 @@
 # child id see Manage Children page: https://classroom.kindercare.com/accounts
 # ID is in the url : https://classroom.kindercare.com/accounts/xxxxxx 
 
-child_id="589168"
+child_id="xxxx"
 no_insert_db=0
 caption=0
  
@@ -77,7 +77,7 @@ until [ $done == "1" ]; do
 				if [ ! -z "$test" ]; then
 					date=`head -$i /tmp/_${child_id}/_date | tail -1 | tr -d '\"'` 
 					date=$(echo "$date" | sed 's/\.[0-9]*//' | sed 's/:\([0-9][0-9]\)$/\1/')
-date=$(date -j -f "%Y-%m-%dT%H:%M:%S%z" "$date" "+%Y%m%d_%H%M%S")
+          date=$(date -j -f "%Y-%m-%dT%H:%M:%S%z" "$date" "+%Y%m%d_%H%M%S")
 					desc=`head -$i /tmp/_${child_id}/_desc | tail -1 | tr -d '\"' | tr -dc '[:alnum:][ ][.!?]\n\r'`  
 					desc=${desc/"Look what I'm doing today!"/}
 					title=`head -$i /tmp/_${child_id}/_title | tail -1 | tr -d '\"' | tr -dc "[:alnum:][ ][.!?']\n\r"`  
