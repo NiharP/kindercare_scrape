@@ -1,0 +1,28 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.kindercare.com	TRUE	/	FALSE	1776812455	_vwo_uuid_v2	DCB93A3962A36F8202AB0EAC982211FA1|99877f0288a1f6ac267217d4b4360a6c
+.kindercare.com	TRUE	/	FALSE	1752536633	_gcl_au	1.1.689195202.1744760633
+.kindercare.com	TRUE	/	FALSE	1776317585	_vwo_uuid	DCB93A3962A36F8202AB0EAC982211FA1
+.kindercare.com	TRUE	/	FALSE	1745365433	_vwo_ds	3%241744760632%3A2.87113604%3A%3A
+.kindercare.com	TRUE	/	FALSE	1753400633	_vis_opt_s	1%7C
+.kindercare.com	TRUE	/	FALSE	0	_vis_opt_test_cookie	1
+.kindercare.com	TRUE	/	TRUE	1747352633	ndp_session_id	84600282-429d-4229-8ffa-7c19b23096e3
+.kindercare.com	TRUE	/	FALSE	1752966056	_fbp	fb.1.1744760633508.916067889991000956
+.kindercare.com	TRUE	/	FALSE	1752536633	_gbc	%7B%22mnEId%22%3A%22cd0916ae3ded4d6f99bb9235799c8689%22%7D
+.kindercare.com	TRUE	/	FALSE	0	_gb_lh	%7B%22mnEId%22%3A%22www.kindercare.com%22%7D
+.kindercare.com	TRUE	/	FALSE	1776563823	LPVID	JkZmI0ZDU5ZWU4NGE5ZmRk
+.kindercare.com	TRUE	/	FALSE	1779320650	_ga_CNY3Y1V7SF	GS1.1.1744760637.1.1.1744760649.0.0.0
+.kindercare.com	TRUE	/	TRUE	1776726056	_hjSessionUser_14625	eyJpZCI6IjQyMDA2NzRkLWYzMTctNTM3Zi1iZmFlLTVjNDkyYzNhYzZlYSIsImNyZWF0ZWQiOjE3NDQ3NjA2MzM2MzcsImV4aXN0aW5nIjp0cnVlfQ==
+.kindercare.com	TRUE	/	FALSE	0	LPSID-14673713	8xd0TsmCTae1rbvpQ7KV8w
+.classroom.kindercare.com	TRUE	/	FALSE	1779749144	_ga	GA1.3.1616397518.1744760633
+classroom.kindercare.com	FALSE	/	TRUE	0	_himama_session	37cadddf37c005c071caf53575b8d2cd
+.kindercare.com	TRUE	/	FALSE	1745276456	_gid	GA1.2.1835441993.1745117918
+.kindercare.com	TRUE	/	FALSE	1779677920	_ga_DWJ63W79F8	GS1.1.1745117917.3.0.1745117919.0.0.0
+.classroom.kindercare.com	TRUE	/	FALSE	1745275544	_gid	GA1.3.1835441993.1745117918
+.kindercare.com	TRUE	/	FALSE	0	_gbs	%7B%22mnEId%22%3A%22c87bd05dccf7476d98b7f0d5c7e938a9%22%7D
+.kindercare.com	TRUE	/	FALSE	1779749301	_ga_BNJ3XR04QF	GS1.1.1745189144.3.0.1745189301.0.0.0
+.kindercare.com	TRUE	/	FALSE	1779750056	_ga	GA1.2.1616397518.1744760633
+.kindercare.com	TRUE	/	FALSE	1745276456	_uetsid	5b6765e01d9311f09a6e138fd26d6ca5
+.kindercare.com	TRUE	/	FALSE	1778886056	_uetvid	1241111085a911ef84af43174f0ebb8e
